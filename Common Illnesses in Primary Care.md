@@ -1,4 +1,4 @@
-# Top 100 Common Illnesses in Primary Care
+# Common Illnesses in Primary Care
 
 ## Overview
 
