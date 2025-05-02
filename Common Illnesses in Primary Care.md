@@ -3288,3 +3288,4 @@ I will now select and detail additional common primary care conditions to add to
 -   **Laboratory Investigations**: Clinical diagnosis. Biopsy is indicated for non-healing or suspicious ulcers. Laboratory tests may be done to evaluate for underlying nutritional deficiencies (e.g., CBC, B12, folate, ferritin) or associated medical conditions (e.g., inflammatory markers, specific autoantibodies) if suspected.
 
 ---
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221l4l2nVw-pp8tAtzb_NSCP6vhL7NCuell%22%5D,%22action%22:%22open%22,%22userId%22:%22103961307342447084491%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing, https://drive.google.com/file/d/1l4t5NqfGVpMKcLYDS43frYIwRBwisjvF/view?usp=sharing
