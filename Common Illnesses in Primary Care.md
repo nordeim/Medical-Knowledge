@@ -1512,3 +1512,397 @@ Here is the next section of the report:
     *   **Imaging:** Pelvic ultrasound to assess ovarian morphology (presence of multiple small follicles) and endometrial thickness (if there is prolonged amenorrhea to assess for endometrial hyperplasia).
 
 ---
+
+### **77. Acute Pharyngitis and Tonsillitis**
+
+-   **Symptoms**: Acute inflammation of the pharynx and/or tonsils, commonly known as a sore throat. Symptoms include throat pain (often worse with swallowing), redness and swelling of the pharynx and tonsils, and sometimes white patches or streaks (exudates) on the tonsils (more suggestive of streptococcal infection or mononucleosis). Other symptoms can include fever, headache, muscle aches, and swollen, tender lymph nodes in the neck. Cough, rhinorrhea (runny nose), and congestion are more suggestive of a viral cause. Streptococcal pharyngitis ("strep throat") is a bacterial cause that can lead to complications like rheumatic fever or post-streptococcal glomerulonephritis if not treated, but most pharyngitis is viral.
+-   **Demographics**: Very common, particularly in children aged 5-15 for streptococcal pharyngitis. Viral pharyngitis affects all age groups. Spread through respiratory droplets.
+-   **Medications**: Treatment depends on the cause (viral or bacterial).
+    *   **For Viral Pharyngitis:** Treatment is symptomatic. Rest, hydration, warm salt water gargles, lozenges, and over-the-counter analgesics (acetaminophen, ibuprofen) for pain and fever. Antibiotics are ineffective and should not be used.
+    *   **For Streptococcal Pharyngitis:** Antibiotics are prescribed to prevent complications and reduce the duration and spread of illness. Penicillin or amoxicillin are typically first-line. Azithromycin or clindamycin may be used for penicillin-allergic patients. A full course of antibiotics is necessary.
+-   **Differential Diagnoses**: Viral pharyngitis (most common cause), Streptococcal pharyngitis (bacterial cause), Mononucleosis (Epstein-Barr virus, often with significant fatigue, swollen lymph nodes, and sometimes splenomegaly), Adenovirus infection, Influenza, Common cold (URTI), Coxsackievirus (hand, foot, and mouth disease), Allergies, Peritonsillar abscess (a collection of pus behind the tonsil, causing severe unilateral sore throat, difficulty swallowing, trismus - difficulty opening the mouth, and deviation of the uvula - **medical emergency**), Epiglottitis (inflammation of the epiglottis, causing severe sore throat, pain with swallowing, drooling, and difficulty breathing - **medical emergency**), Gonococcal pharyngitis, Diphtheria (rare in vaccinated populations).
+-   **Red-Flag Symptoms**:
+    *   **Difficulty breathing or stridor (high-pitched sound during breathing):** Suggests airway obstruction (e.g., epiglottitis, severe tonsillar swelling).
+    *   **Difficulty swallowing or inability to swallow saliva (drooling):** Can indicate epiglottitis or severe peritonsillar abscess.
+    *   **Severe, unilateral sore throat with trismus and deviation of the uvula:** Highly suggestive of peritonsillar abscess.
+    *   **High fever (>38.5°C or 101.3°F) with severe systemic symptoms.**
+    *   **Neck stiffness or neurological symptoms:** Rare, but could indicate complications like meningitis.
+    *   **Rash (e.g., scarlatiniform rash of scarlet fever, a complication of strep throat).**
+-   **ICD-10 Code**: J02.9 (Acute pharyngitis, unspecified). J03.90 (Acute tonsillitis, unspecified). B95.0 (Streptococcus, group A as the cause of diseases classified elsewhere).
+-   **Laboratory Investigations**:
+    *   **Rapid strep test or throat culture:** Recommended for patients with symptoms suggestive of streptococcal pharyngitis (e.g., fever, tonsillar exudates, tender anterior cervical lymph nodes, absence of cough/rhinorrhea). A positive rapid strep test can be treated. A negative rapid strep test in children should be followed by a throat culture due to higher risk of rheumatic fever. Throat culture is the gold standard but takes 24-48 hours.
+    *   **Monospot test or EBV serology:** If mononucleosis is suspected.
+    *   **CBC:** May be done if systemic symptoms are severe or to evaluate for mononucleosis.
+
+---
+
+### **78. Constipation**
+
+-   **Symptoms**: Infrequent bowel movements (typically less than three per week) or difficulty passing stools. Symptoms can include hard or lumpy stools, straining during bowel movements, a feeling of incomplete evacuation, a sensation of anorectal blockage, and needing manual maneuvers to facilitate a bowel movement. Abdominal bloating, discomfort, and pain are also common. Constipation can be acute or chronic.
+-   **Demographics**: Common in all age groups, particularly in the elderly, pregnant women, and children. More common in females than males. Often functional, but can be caused by diet (low fiber, low fluid), lifestyle (sedentary), medications, or underlying medical conditions.
+-   **Medications**: Treatment often begins with lifestyle and dietary changes, followed by laxatives if needed.
+    *   **Lifestyle and Dietary Modifications:** Increasing dietary fiber intake (gradually to avoid bloating and gas), increasing fluid intake, regular physical activity, establishing a regular bowel routine and not delaying the urge to defecate.
+    *   **Laxatives (used if lifestyle changes are insufficient):**
+        *   Bulk-forming laxatives (e.g., psyllium, methylcellulose) increase stool bulk and water content. Require adequate fluid intake.
+        *   Osmotic laxatives (e.g., polyethylene glycol (PEG), lactulose, magnesium hydroxide) draw water into the colon to soften stool.
+        *   Stool softeners (e.g., docusate) moisten the stool.
+        *   Stimulant laxatives (e.g., senna, bisacodyl) stimulate intestinal muscle contractions. Generally used for short periods to avoid dependence.
+        *   Chloride channel activators (e.g., lubiprostone) and Guanylate cyclase-C agonists (e.g., linaclotide, plecanatide) are prescription medications for chronic idiopathic constipation and IBS-C.
+-   **Differential Diagnoses**: Functional constipation (most common), Irritable Bowel Syndrome (IBS-C subtype - constipation associated with abdominal pain), Medications (e.g., opioids, anticholinergics, calcium channel blockers, iron supplements, certain antidepressants), Structural abnormalities of the colon or rectum (e.g., stricture, tumor, diverticular disease, anal fissure, hemorrhoids), Metabolic disorders (e.g., hypothyroidism, hypercalcemia, diabetes), Neurological disorders (e.g., Parkinson's disease, multiple sclerosis, spinal cord injury), Pelvic floor dysfunction, Pregnancy, Ignoring the urge to defecate habitually.
+-   **Red-Flag Symptoms**: Symptoms that suggest a more serious underlying cause.
+    *   **New onset or worsening constipation in older adults (e.g., over 50):** Warrants investigation to rule out colorectal cancer or other structural issues.
+    *   **Unexplained weight loss:** Raises suspicion for malignancy or malabsorption.
+    *   **Hematochezia (blood in the stool):** Requires investigation (e.g., colonoscopy) to rule out colorectal cancer, polyps, diverticulosis, or IBD.
+    *   **Anemia (iron deficiency):** May indicate chronic blood loss.
+    *   **Severe abdominal pain, distension, nausea, and vomiting:** Could indicate bowel obstruction. **Medical emergency.**
+    *   **Narrowing of stool caliber that is persistent.**
+    *   **Family history of colon cancer or inflammatory bowel disease.**
+    *   **Constitutional symptoms like fever or chills.**
+-   **ICD-10 Code**: K59.00 (Constipation, unspecified). More specific codes exist for chronic constipation, slow transit constipation, etc.
+-   **Laboratory Investigations**: Generally not needed for acute, uncomplicated constipation without red flags. Investigations are indicated for chronic constipation, red flags, or suspicion of an underlying medical condition.
+    *   **Common tests to rule out other conditions:** Complete Blood Count (CBC) (to check for anemia), Basic metabolic panel (electrolytes, calcium), Thyroid-stimulating hormone (TSH).
+    *   **Further investigations as indicated by red flags or clinical suspicion:** Fecal occult blood test or FIT, Colonoscopy (especially for new onset in older adults, with red flags, or family history), Imaging studies (e.g., plain abdominal X-ray for fecal impaction or obstruction, CT scan), Anorectal manometry or defecography (if pelvic floor dysfunction is suspected).
+
+---
+
+### **79. Vertigo and Dizziness**
+
+-   **Symptoms**: Vertigo is the sensation of spinning or whirling, either of oneself or the surroundings. Dizziness is a broader term that can include feelings of lightheadedness, faintness, unsteadiness, or a swimming sensation in the head. Causes can be peripheral (originating in the inner ear or vestibular nerve) or central (originating in the brain, e.g., brainstem or cerebellum). Peripheral causes are much more common in primary care.
+    *   **Peripheral Vertigo:** Often sudden onset, severe vertigo, often triggered by head movement, associated with nausea, vomiting, and sometimes hearing loss or tinnitus (ringing in the ears). Examples include Benign Paroxysmal Positional Vertigo (BPPV), Vestibular neuritis, Labyrinthitis, Meniere's disease.
+    *   **Central Vertigo/Dizziness:** Often gradual onset, less severe vertigo but constant, may be associated with other neurological symptoms (e.g., double vision, difficulty speaking or swallowing, weakness, numbness, gait instability), not typically affected by head position, hearing loss and tinnitus are usually absent or less prominent. Examples include stroke, TIA, multiple sclerosis, brain tumor, migraine-associated vertigo.
+    *   **Lightheadedness/Presyncope:** Feeling faint or about to pass out. Can be caused by orthostatic hypotension, cardiac issues (arrhythmias, valvular disease), dehydration, anemia, or medication side effects.
+    *   **Disequilibrium/Unsteadiness:** Feeling unsteady or off-balance when walking, usually without a spinning sensation. Can be caused by peripheral neuropathy, musculoskeletal issues, visual problems, or central neurological disorders.
+-   **Demographics**: Dizziness is a very common symptom across all age groups, particularly in older adults. BPPV is more common with increasing age. Vestibular neuritis can occur at any age. Meniere's disease typically affects adults aged 20-50.
+-   **Medications**: Treatment depends on the underlying cause.
+    *   **For BPPV:** Particle repositioning maneuvers (e.g., Epley maneuver) are highly effective in moving displaced crystals in the inner ear.
+    *   **For Vestibular Neuritis/Labyrinthitis:** Vestibular suppressants (e.g., meclizine, dimenhydrinate, benzodiazepines) and antiemetics (e.g., ondansetron) for acute symptoms. Corticosteroids may be used. Vestibular rehabilitation exercises are important for long-term recovery.
+    *   **For Meniere's Disease:** Dietary changes (low salt), diuretics, sometimes intratympanic steroid injections or surgery.
+    *   **For Migraine-Associated Vertigo:** Migraine preventive medications (e.g., beta-blockers, topiramate).
+    *   **For Orthostatic Hypotension:** Lifestyle modifications (e.g., increasing fluid and salt intake, slow position changes), sometimes medications (e.g., fludrocortisone, midodrine).
+    *   **Avoid vestibular suppressants long-term for chronic dizziness**, as they can hinder central compensation.
+-   **Differential Diagnoses**: Benign Paroxysmal Positional Vertigo (BPPV), Vestibular neuritis (inflammation of the vestibular nerve), Labyrinthitis (inflammation of the labyrinth, affecting both vestibular and auditory function), Meniere's disease (recurrent vertigo attacks with hearing loss, tinnitus, and aural fullness), Migraine-associated vertigo, Stroke or TIA (especially in the posterior circulation), Multiple sclerosis, Brain tumor (especially in the posterior fossa), Acoustic neuroma (tumor on the vestibulocochlear nerve, can cause dizziness, hearing loss, tinnitus), Orthostatic hypotension, Cardiac arrhythmias, Anemia, Dehydration, Anxiety or panic disorder, Medication side effects, Peripheral neuropathy, Cerebellar degeneration.
+-   **Red-Flag Symptoms**: Symptoms that suggest a central cause or other serious condition. Mnemonic "HINTS Plus" (Head Impulse, Nystagmus, Test of Skew, Plus gait, hearing, and cranial nerves) can help distinguish central from peripheral vertigo, particularly in acute vestibular syndrome.
+    *   **Acute onset dizziness or vertigo with other neurological symptoms:** Double vision, difficulty speaking (dysarthria), difficulty swallowing (dysphagia), weakness or numbness on one side of the body, facial drooping, incoordination, gait instability, severe headache, altered mental status. **Highly suspicious for stroke or other central pathology - Medical emergency.**
+    *   **Dizziness that is constant and not triggered by movement, especially if associated with neurological signs.**
+    *   **New onset severe headache with dizziness.**
+    *   **Dizziness with hearing loss that does not improve.**
+    *   **Abnormal eye movements (nystagmus) that are vertical, purely torsional, or change direction with gaze.**
+    *   **Inability to stand or walk without assistance.**
+    *   **Symptoms in a patient with risk factors for stroke (e.g., hypertension, diabetes, hyperlipidemia, smoking, atrial fibrillation).**
+-   **ICD-10 Code**: R42 (Dizziness and giddiness). More specific codes exist for specific causes like H81.1 (Benign paroxysmal vertigo), H81.2 (Vestibular neuritis), H81.0 (Meniere's disease).
+-   **Laboratory Investigations**: Often based on clinical examination (including detailed neurological and otological exams, and assessment of eye movements and balance). Investigations are guided by suspected cause and presence of red flags.
+    *   **Audiometry:** To assess hearing loss.
+    *   **Videonystagmography (VNG) or electronystagmography (ENG):** Tests of vestibular function.
+    *   **MRI of the brain:** Essential if a central cause is suspected (e.g., stroke, tumor, MS).
+    *   **Basic metabolic panel:** To check glucose, electrolytes, and renal function.
+    *   **CBC:** To check for anemia.
+    *   **Cardiac evaluation (EKG, Holter monitor):** If cardiac causes of lightheadedness are suspected.
+    *   **Blood pressure and heart rate measurements (including orthostatic vital signs).**
+
+---
+
+### **80. Insomnia**
+
+-   **Symptoms**: Difficulty falling asleep, difficulty staying asleep, or waking up too early and being unable to return to sleep, resulting in insufficient or poor quality sleep. This leads to daytime impairment, such as fatigue, difficulty concentrating, irritability, mood disturbances, and reduced performance. Insomnia can be acute (lasting for a few days or weeks) or chronic (occurring at least three nights per week for at least three months).
+-   **Demographics**: Common, affecting a significant portion of the population at some point. More prevalent in women, older adults, individuals with medical or psychiatric conditions, shift workers, and those experiencing stress.
+-   **Medications**: Treatment involves addressing underlying causes, behavioral therapies, and sometimes medications. Cognitive Behavioral Therapy for Insomnia (CBT-I) is considered the first-line treatment for chronic insomnia.
+    *   **Behavioral Therapies (CBT-I):** Includes techniques such as sleep hygiene education, stimulus control (associating the bed with sleep), sleep restriction (limiting time in bed to consolidate sleep), relaxation techniques, and cognitive restructuring (challenging unhelpful thoughts about sleep).
+    *   **Medications (typically used for short periods or in conjunction with CBT-I):**
+        *   Hypnotics (sleep medications): Benzodiazepine receptor agonists (e.g., zolpidem, eszopiclone, zaleplon), Benzodiazepines (less commonly used for chronic insomnia due to dependence risk), Melatonin receptor agonists (e.g., ramelteon), Orexin receptor antagonists (e.g., suvorexant, lemborexant).
+        *   Antidepressants with sedative properties (e.g., trazodone, mirtazapine) may be used off-label, particularly if insomnia is associated with depression.
+        *   Antihistamines (e.g., diphenhydramine) are available over-the-counter but can cause daytime grogginess and anticholinergic side effects.
+    *   **Addressing Underlying Causes:** Treating underlying medical conditions (e.g., pain, GERD, restless legs syndrome, sleep apnea) or psychiatric conditions (e.g., depression, anxiety) that may be contributing to insomnia. Reviewing and adjusting medications that may interfere with sleep.
+-   **Differential Diagnoses**: Adjustment insomnia (related to an acute stressor), Chronic insomnia (primary or comorbid with medical/psychiatric conditions), Sleep apnea (characterized by pauses in breathing during sleep, often with snoring and daytime sleepiness, not typically insomnia as the primary complaint), Restless legs syndrome (unpleasant urge to move the legs, particularly in the evening and at rest, interfering with sleep onset), Periodic limb movement disorder, Circadian rhythm sleep disorders (e.g., shift work disorder, delayed sleep phase syndrome), Medication side effects, Substance use (caffeine, alcohol, nicotine, illicit drugs) or withdrawal, Psychiatric disorders (depression, anxiety, bipolar disorder), Medical conditions (e.g., chronic pain, heart failure, COPD, hyperthyroidism, neurological disorders), Poor sleep hygiene.
+-   **Red-Flag Symptoms**:
+    *   **Symptoms suggestive of untreated sleep apnea:** Loud snoring, observed pauses in breathing during sleep, excessive daytime sleepiness despite adequate opportunity for sleep, morning headaches. Requires sleep study.
+    *   **Symptoms suggestive of restless legs syndrome:** Unpleasant sensations in the legs relieved by movement.
+    *   **Symptoms of underlying medical or psychiatric conditions that require specific treatment.**
+    *   **New onset severe insomnia or changes in sleep pattern associated with neurological symptoms.**
+    *   **Excessive daytime sleepiness that is impairing function and not solely due to insufficient sleep opportunity.**
+-   **ICD-10 Code**: G47.00 (Insomnia, unspecified). More specific codes exist for different types of insomnia (e.g., acute, chronic, adjustment insomnia, paradoxical insomnia).
+-   **Laboratory Investigations**: Generally not needed for the initial evaluation of uncomplicated insomnia. Investigations are indicated if an underlying medical or sleep disorder is suspected.
+    *   **Sleep study (polysomnography):** The primary test for diagnosing sleep apnea, periodic limb movement disorder, and other complex sleep disorders.
+    *   **Actigraphy:** Wearing a wrist device to monitor sleep-wake patterns over several days or weeks.
+    *   **Laboratory tests:** Based on suspected underlying medical conditions (e.g., TSH for thyroid dysfunction, ferritin for restless legs syndrome).
+
+---
+
+### **81. Obesity**
+
+-   **Symptoms**: Defined by excess accumulation of body fat, typically measured using Body Mass Index (BMI) - weight in kilograms divided by the square of height in meters (BMI ≥ 30 kg/m²). Overweight is defined as BMI 25.0-29.9 kg/m². While not a disease in itself, obesity is a major risk factor for numerous chronic diseases and has significant health consequences. Symptoms are often related to the associated comorbidities.
+    *   **Common symptoms/consequences:** Shortness of breath (especially with exertion), fatigue, joint pain (especially in weight-bearing joints like knees and hips), sleep apnea (snoring, daytime sleepiness), acid reflux, increased sweating, skin fold rashes/infections, psychological distress (depression, anxiety), social stigma.
+-   **Demographics**: Prevalence has increased significantly globally across all age groups. Affects males and females. More common in certain racial and ethnic groups and lower socioeconomic populations. Caused by a complex interaction of genetic, environmental (diet, physical activity), behavioral, and social factors.
+-   **Medications**: Management involves lifestyle modifications (diet and exercise), behavioral therapy, and sometimes medications or surgery.
+    *   **Lifestyle Modifications:** Reduced calorie intake through dietary changes, increased physical activity (aerobic and strength training), behavioral counseling.
+    *   **Medications (for individuals with BMI ≥ 30 or BMI ≥ 27 with obesity-related comorbidities, who have not achieved sufficient weight loss with lifestyle interventions):** Prescription weight loss medications (e.g., orlistat - inhibits fat absorption; phentermine-topiramate, bupropion-naltrexone, liraglutide, semaglutide - affect appetite and satiety). Medication choice depends on patient characteristics, comorbidities, and potential side effects. Medications are typically used as an adjunct to lifestyle changes.
+    *   **Bariatric Surgery (for individuals with severe obesity - BMI ≥ 40 or BMI ≥ 35 with significant obesity-related comorbidities, who have not achieved sufficient weight loss with other methods):** Procedures like Roux-en-Y gastric bypass, sleeve gastrectomy, or adjustable gastric banding. Can lead to significant and sustained weight loss and improvement or remission of comorbidities.
+    *   **Addressing Comorbidities:** Managing associated conditions like hypertension, type 2 diabetes, dyslipidemia, sleep apnea, etc.
+-   **Differential Diagnoses**: Endocrine causes of weight gain (rare): Cushing's syndrome, Hypothyroidism, Polycystic ovary syndrome (often with associated metabolic issues), Hypothalamic obesity (due to damage to the hypothalamus). Medication-induced weight gain (e.g., certain antidepressants, antipsychotics, corticosteroids, insulin, sulfonylureas). Genetic syndromes (rare).
+-   **Red-Flag Symptoms**: While obesity itself is a health concern, red flags are typically related to the complications or underlying causes.
+    *   **Symptoms suggestive of Cushing's syndrome:** Rapid weight gain (especially central), round face, easy bruising, wide purple striae, proximal muscle weakness.
+    *   **Symptoms of severe, untreated sleep apnea:** Loud snoring, observed pauses in breathing, excessive daytime sleepiness.
+    *   **New onset or worsening symptoms of cardiovascular disease (chest pain, dyspnea) or stroke.**
+    *   **Symptoms of type 2 diabetes (polyuria, polydipsia).**
+    *   **Severe joint pain limiting mobility.**
+-   **ICD-10 Code**: E66.9 (Obesity, unspecified). More specific codes exist for different classes of obesity based on BMI (E66.0 to E66.2) and for morbid obesity (E66.01, E66.2).
+-   **Laboratory Investigations**: Primarily involves assessing for obesity-related comorbidities and ruling out secondary causes.
+    *   **Screening for comorbidities:** Fasting glucose or HbA1c (for type 2 diabetes), Lipid panel (for dyslipidemia), Blood pressure measurement, Liver function tests (non-alcoholic fatty liver disease is common).
+    *   **Further investigations if secondary causes are suspected:** Thyroid-stimulating hormone (TSH), Cortisol levels (if Cushing's syndrome is suspected), Hormonal assays (if PCOS is suspected in women).
+    *   **Sleep study:** If sleep apnea is suspected.
+
+---
+
+### **82. Type 1 Diabetes Mellitus**
+
+-   **Symptoms**: An autoimmune disease where the body's immune system attacks and destroys the insulin-producing beta cells in the pancreas. This results in an absolute deficiency of insulin. Symptoms typically develop rapidly over days to weeks and are often more severe than in type 2 diabetes. Classic symptoms include polyuria (frequent urination), polydipsia (increased thirst), polyphagia (increased hunger), and significant, often rapid, unintentional weight loss. Other symptoms include fatigue, blurred vision, and sometimes nausea and vomiting. If not diagnosed and treated promptly, can lead to diabetic ketoacidosis (DKA).
+-   **Demographics**: Most commonly diagnosed in children, adolescents, and young adults, but can occur at any age. Incidence is higher in individuals of European descent. Family history of type 1 diabetes increases risk. The exact cause is unknown but involves a genetic predisposition and environmental factors (e.g., viral infections) that trigger the autoimmune response.
+-   **Medications**: Requires lifelong insulin therapy.
+    *   **Insulin Therapy:** Insulin is administered by injection (using syringes or pens) or through an insulin pump. Various types of insulin exist (rapid-acting, short-acting, intermediate-acting, long-acting) with different onset, peak, and duration profiles. Intensive insulin therapy (multiple daily injections or insulin pump) aims to mimic the body's physiological insulin secretion and maintain blood glucose levels within a target range.
+    *   **Glucose Monitoring:** Regular blood glucose monitoring (using a glucose meter) or continuous glucose monitoring (CGM) systems are essential for managing blood sugar levels and adjusting insulin doses.
+    *   **Carbohydrate Counting:** Learning to count carbohydrates in food is crucial for matching insulin doses to food intake.
+    *   **Other medications:** Non-insulin medications used in type 2 diabetes are generally not used for type 1 diabetes, except for some exceptions in adults (e.g., pramlintide as an adjunct to insulin, or SGLT2 inhibitors in select patients with close monitoring).
+-   **Differential Diagnoses**: Type 2 diabetes mellitus (typically later onset, often associated with obesity and insulin resistance, less acute presentation), Secondary diabetes (e.g., due to pancreatitis, Cushing's syndrome, certain medications). Latent Autoimmune Diabetes in Adults (LADA) is a slowly progressive form of autoimmune diabetes diagnosed in adulthood, often initially misdiagnosed as type 2 diabetes.
+-   **Red-Flag Symptoms**: Symptoms of uncontrolled hyperglycemia or diabetic ketoacidosis (DKA).
+    *   **Symptoms of DKA:** Nausea, vomiting, abdominal pain, deep and rapid breathing (Kussmaul respirations), fruity odor on the breath, confusion, lethargy, dehydration. **Medical emergency requiring immediate hospitalization and IV fluids and insulin.**
+    *   **Significant and rapid unintentional weight loss with classic symptoms (polyuria, polydipsia, polyphagia).**
+    *   **New onset diabetes symptoms in a child or young adult.**
+-   **ICD-10 Code**: E10.9 (Type 1 diabetes mellitus without complications). More specific codes exist for type 1 diabetes with specific complications or if in DKA (E10.1).
+-   **Laboratory Investigations**:
+    *   **Fasting plasma glucose, Random plasma glucose, or Oral glucose tolerance test (OGTT):** To diagnose diabetes based on blood glucose levels.
+    *   **Hemoglobin A1c (HbA1c):** Reflects average blood sugar over the past 2-3 months.
+    *   **Urine ketones and blood ketones:** Elevated in DKA.
+    *   **Autoantibodies:** Islet cell autoantibodies (ICA), Glutamic acid decarboxylase antibodies (GADA or anti-GAD), Insulin autoantibodies (IAA), Tyrosine phosphatase IA-2 antibodies (IA-2A), Zinc transporter 8 (ZnT8) antibodies. Presence of these antibodies indicates the autoimmune destruction of beta cells and helps confirm the diagnosis of type 1 diabetes.
+    *   **C-peptide level:** A measure of endogenous insulin production. Typically very low or undetectable in established type 1 diabetes.
+    *   **Basic metabolic panel:** To assess electrolytes, renal function, and glucose.
+    *   **Lipid panel:** To screen for dyslipidemia.
+
+---
+
+### **83. Hyperthyroidism**
+
+-   **Symptoms**: Caused by excessive production of thyroid hormones. Symptoms reflect a hypermetabolic state and can include unintentional weight loss despite increased appetite, rapid or irregular heartbeat (palpitations), nervousness, anxiety, irritability, tremor (usually fine tremor in the hands), increased sweating, heat intolerance, changes in bowel patterns (often more frequent), difficulty sleeping, muscle weakness, and sometimes a goiter (enlarged thyroid gland) or eye changes (proptosis or bulging eyes, often seen in Graves' disease). Symptoms can be subtle, especially in older adults.
+-   **Demographics**: More common in females than males. Graves' disease, an autoimmune disorder, is the most common cause in younger individuals, often occurring between ages 20-50. Toxic nodular goiter and toxic adenoma are more common causes in older adults. Other causes include thyroiditis (inflammation of the thyroid), excessive iodine intake, and certain medications.
+-   **Medications**: Treatment aims to reduce thyroid hormone production and manage symptoms.
+    *   **Antithyroid Medications (e.g., methimazole, propylthiouracil - PTU):** Inhibit the synthesis of thyroid hormones. PTU is preferred in the first trimester of pregnancy. Treatment duration varies but is often for 1-2 years.
+    *   **Beta-blockers (e.g., propranolol, atenolol):** Help control symptoms like palpitations, tremor, anxiety, and rapid heart rate, particularly in the acute phase. They do not affect thyroid hormone levels but block their effects on the body.
+    *   **Radioactive Iodine Therapy:** A common treatment, particularly for Graves' disease and toxic nodular goiter, where radioactive iodine is taken orally and destroys thyroid cells. Often leads to hypothyroidism, requiring lifelong thyroid hormone replacement.
+    *   **Surgery (Thyroidectomy):** Removal of the thyroid gland may be an option for large goiters, suspicion of malignancy, or when other treatments are not suitable. Also leads to hypothyroidism.
+    *   **Addressing Underlying Cause:** Treating thyroiditis if applicable.
+-   **Differential Diagnoses**: Anxiety disorder (can cause nervousness, palpitations, tremor), Panic disorder, Pheochromocytoma (rare tumor causing episodic release of adrenaline with similar symptoms), Atrial fibrillation or other cardiac arrhythmias, Menopause (hot flashes, palpitations), Side effects of medications (e.g., stimulants, excessive thyroid hormone supplementation), Subclinical hyperthyroidism (low TSH with normal thyroid hormone levels, often asymptomatic).
+-   **Red-Flag Symptoms**:
+    *   **Thyroid storm (thyrotoxic crisis):** A rare but life-threatening complication characterized by severe hyperthyroid symptoms along with fever, tachycardia out of proportion to fever, arrhythmias, altered mental status, vomiting, diarrhea, and sometimes heart failure or shock. **Medical emergency requiring immediate hospitalization and aggressive treatment.**
+    *   **Severe tachycardia or arrhythmias (e.g., rapid atrial fibrillation) with hemodynamic instability.**
+    *   **New onset or worsening eye symptoms (proptosis, vision changes, eye pain) in Graves' disease.**
+    *   **Signs of heart failure.**
+    *   **Severe muscle weakness or periodic paralysis.**
+-   **ICD-10 Code**: E05.90 (Hyperthyroidism, unspecified, without thyroid storm). More specific codes exist for Graves' disease (E05.0), toxic nodular goiter (E05.2), toxic adenoma (E05.1), thyroiditis (E06.-), and with thyroid storm (E05.91).
+-   **Laboratory Investigations**:
+    *   **Thyroid-Stimulating Hormone (TSH):** The most sensitive initial test. Typically suppressed (low) in hyperthyroidism as the pituitary senses excess thyroid hormone and reduces TSH production.
+    *   **Free Thyroxine (Free T4) and sometimes Free Triiodothyronine (Free T3):** Measure the levels of active thyroid hormones. Typically elevated in hyperthyroidism.
+    *   **Thyroid-stimulating immunoglobulin (TSI) or TSH receptor antibodies (TRAb):** To diagnose Graves' disease.
+    *   **Thyroid peroxidase antibodies (TPO Ab) or thyroglobulin antibodies (Tg Ab):** Can be elevated in autoimmune thyroiditis.
+    *   **Radioactive iodine uptake (RAIU) and thyroid scan:** Imaging tests to assess the function and structure of the thyroid gland and help determine the cause of hyperthyroidism. RAIU is high in Graves' disease and toxic nodular goiter/adenoma, and low in thyroiditis.
+    *   **Basic metabolic panel:** To check electrolytes and liver function.
+    *   **EKG:** To assess for cardiac arrhythmias.
+
+---
+
+### **84. Vitamin D Deficiency**
+
+-   **Symptoms**: Insufficient levels of vitamin D in the body, which is essential for calcium and phosphate absorption and bone health, as well as playing roles in immune function and cell growth. Mild deficiency is often asymptomatic. More severe deficiency can lead to bone pain, muscle weakness, fatigue, and increased risk of fractures. In children, severe deficiency causes rickets (softening and weakening of bones, leading to skeletal deformities). In adults, it causes osteomalacia (softening of bones, leading to bone pain and muscle weakness). Emerging research suggests links between vitamin D deficiency and increased risk of certain chronic diseases, but these associations are still being studied.
+-   **Demographics**: Very common globally. Risk factors include limited sun exposure (e.g., living at higher latitudes, using sunscreen, spending limited time outdoors, darker skin pigmentation), inadequate dietary intake of vitamin D (found in fatty fish, fortified foods), malabsorption disorders (e.g., celiac disease, Crohn's disease, gastric bypass surgery), obesity (vitamin D is sequestered in fat tissue), chronic kidney disease, liver disease, and certain medications. Breastfed infants who do not receive supplementation are also at risk.
+-   **Medications**: Treatment involves vitamin D supplementation.
+    *   **Vitamin D Supplements:** Ergocalciferol (vitamin D2) or Cholecalciferol (vitamin D3). Cholecalciferol is generally preferred as it is more potent and has a longer half-life. Dosing depends on the severity of the deficiency and patient factors. Loading doses may be used for severe deficiency. Maintenance doses are then prescribed.
+    *   **Calcium Supplementation:** May be needed in addition to vitamin D, particularly if dietary calcium intake is inadequate.
+    *   **Addressing Underlying Cause:** Treating malabsorption disorders or adjusting medications contributing to deficiency.
+-   **Differential Diagnoses**: Osteomalacia (severe vitamin D deficiency causing bone softening), Osteoporosis (reduced bone density, increased fracture risk), Fibromyalgia (widespread musculoskeletal pain), Chronic fatigue syndrome, Hypocalcemia or hypophosphatemia due to other causes, Other causes of bone pain (e.g., fractures, malignancy, infection).
+-   **Red-Flag Symptoms**:
+    *   **Symptoms of severe hypocalcemia (low blood calcium) due to severe vitamin D deficiency:** Muscle cramps, tingling in hands and feet, tetany, seizures, cardiac arrhythmias. Requires urgent management of calcium and vitamin D levels.
+    *   **Severe bone pain or fractures occurring with minimal trauma:** Suggests osteomalacia or osteoporosis.
+    *   **Skeletal deformities in children (rickets).**
+-   **ICD-10 Code**: E55.9 (Vitamin D deficiency, unspecified). Specific codes exist for rickets (E55.0) and osteomalacia (M83.-).
+-   **Laboratory Investigations**:
+    *   **25-hydroxyvitamin D (25(OH)D) level:** The best indicator of overall vitamin D status. Levels < 20 ng/mL (50 nmol/L) are generally considered deficient, 20-30 ng/mL (50-75 nmol/L) insufficient, and > 30 ng/mL (75 nmol/L) sufficient (optimal levels are debated, but often targeted > 30).
+    *   **Serum calcium and phosphate levels:** To assess for abnormalities related to vitamin D metabolism.
+    *   **Alkaline phosphatase:** May be elevated in severe deficiency due to increased bone turnover.
+    *   **Parathyroid hormone (PTH):** Often elevated in severe vitamin D deficiency (secondary hyperparathyroidism) as the body tries to raise calcium levels.
+    *   **Other tests:** Based on suspected underlying cause (e.g., celiac serology for malabsorption).
+
+---
+
+### **85. Acute Kidney Injury (AKI)**
+
+-   **Symptoms**: A sudden decrease in kidney function that occurs over hours to days. Can range from a mild decrease in function to complete kidney failure. Symptoms depend on the severity and underlying cause. May be asymptomatic, especially in early stages. When symptoms occur, they can include decreased urine output (oliguria or anuria - though urine output can be normal in some types of AKI), swelling in the legs and ankles (edema), fatigue, shortness of breath, confusion, nausea, vomiting, loss of appetite, and chest pain or pressure (if fluid buildup affects the heart).
+-   **Demographics**: Can occur in individuals of any age but is more common in hospitalized patients, especially those in critical care. Risk factors include advanced age, chronic kidney disease, diabetes, hypertension, heart failure, liver disease, sepsis, dehydration, exposure to nephrotoxic medications (e.g., certain antibiotics, NSAIDs, contrast dyes), and urinary tract obstruction.
+-   **Medications/Management**: Management focuses on identifying and treating the underlying cause, preventing further kidney damage, and managing complications.
+    *   **Identifying and Treating the Cause:** This is the most critical step. Causes are often categorized as prerenal (reduced blood flow to the kidneys - e.g., dehydration, heart failure, blood loss), intrinsic (damage to the kidney itself - e.g., acute tubular necrosis from ischemia or toxins, glomerulonephritis, interstitial nephritis), or postrenal (obstruction of urine outflow - e.g., kidney stones, enlarged prostate, tumors).
+    *   **Fluid Management:** Administering intravenous fluids for prerenal causes, or restricting fluids for patients with fluid overload.
+    *   **Medication Review:** Discontinuing or adjusting nephrotoxic medications.
+    *   **Managing Electrolyte Imbalances:** Treating hyperkalemia (high potassium), hyponatremia (low sodium), hyperphosphatemia (high phosphate), and metabolic acidosis.
+    *   **Diuretics:** May be used to help remove excess fluid, but do not treat the underlying kidney damage.
+    *   **Renal Replacement Therapy (Dialysis):** May be necessary for severe AKI with complications like severe fluid overload, refractory hyperkalemia, severe acidosis, or uremic symptoms.
+-   **Differential Diagnoses**: Chronic Kidney Disease (CKD - gradual loss of function over months to years), Glomerulonephritis, Interstitial nephritis, Vasculitis affecting the kidneys, Obstructive uropathy (e.g., bilateral kidney stones, prostate enlargement, bladder obstruction).
+-   **Red-Flag Symptoms**:
+    *   **Significant decrease or absence of urine output.**
+    *   **Signs of fluid overload:** Severe edema, shortness of breath, crackles in the lungs, elevated jugular venous pressure.
+    *   **Symptoms of uremia:** Severe fatigue, nausea, vomiting, confusion, muscle twitching.
+    *   **Severe electrolyte abnormalities, particularly hyperkalemia, which can cause life-threatening cardiac arrhythmias.**
+    *   **Severe metabolic acidosis.**
+    *   **Flank pain or inability to urinate:** Suggests urinary tract obstruction.
+    *   **Symptoms in a patient with a single functioning kidney or a kidney transplant.**
+-   **ICD-10 Code**: N17.9 (Acute kidney failure, unspecified). More specific codes exist for AKI with tubular necrosis (N17.0), acute cortical necrosis (N17.1), acute medullary necrosis (N17.2), and other specified AKI (N17.8).
+-   **Laboratory Investigations**:
+    *   **Serum creatinine and BUN:** Rapid increase indicates AKI.
+    *   **Basic metabolic panel:** To assess electrolytes, glucose, and bicarbonate.
+    *   **Urinalysis:** Can provide clues to the cause (e.g., casts, protein, blood).
+    *   **Fractional excretion of sodium (FENa) and fractional excretion of urea (FEUrea):** Can help differentiate prerenal AKI from acute tubular necrosis.
+    *   **Renal ultrasound:** Essential to evaluate for urinary tract obstruction. Can also assess kidney size.
+    *   **Kidney biopsy:** May be performed in select cases to determine the cause of intrinsic kidney injury (e.g., glomerulonephritis).
+
+---
+
+### **86. Kidney Stones (Nephrolithiasis)**
+
+-   **Symptoms**: Solid deposits made of minerals and salts that form inside the kidneys. Can affect any part of the urinary tract, from the kidneys to the bladder. Symptoms typically occur when a stone moves into the ureter, blocking urine flow. This causes severe, sharp pain (renal colic) in the back or side, below the ribs, which may radiate to the lower abdomen and groin. The pain often comes in waves and fluctuates in intensity. Other symptoms include nausea, vomiting, hematuria (blood in the urine - may be visible or microscopic), painful urination, urgency, and frequency. If infection is present along with obstruction, fever and chills may occur.
+-   **Demographics**: More common in males than females. Incidence peaks between ages 20 and 50. Risk factors include a history of kidney stones, family history, dehydration, certain diets (high in protein, sodium, or oxalate), obesity, certain medical conditions (e.g., gout, IBD, hyperparathyroidism), and certain medications.
+-   **Medications**: Treatment focuses on pain management, helping the stone pass, and preventing future stones.
+    *   **Pain Management:** NSAIDs (e.g., ibuprofen, ketorolac) are often very effective for renal colic. Opioids may be needed for severe pain.
+    *   **Medical Expulsive Therapy:** Alpha-blockers (e.g., tamsulosin) can help relax the muscles in the ureter, facilitating stone passage, particularly for smaller stones.
+    *   **Hydration:** Drinking plenty of fluids is important once nausea and vomiting are controlled.
+    *   **Preventive Medications:** Based on the type of stone and risk factors, medications may be prescribed to prevent future stones (e.g., thiazide diuretics for calcium stones, allopurinol for uric acid stones, citrate preparations). Dietary modifications based on stone type are also important.
+    *   **Procedures (if stone is large, not passing, causing obstruction with infection, or intractable pain):** Extracorporeal shock wave lithotripsy (ESWL - uses shock waves to break up stones), Ureteroscopy (using a scope to remove or break up stones in the ureter or kidney), Percutaneous nephrolithotomy (for large kidney stones).
+-   **Differential Diagnoses**: Urinary tract infection (UTI - especially pyelonephritis, which can cause flank pain and fever), Appendicitis (pain typically in the right lower quadrant, but can be atypical), Diverticulitis (pain typically in the left lower quadrant), Ovarian cysts or torsion, Ectopic pregnancy, Musculoskeletal back pain, Gallstones (biliary colic - pain typically in the right upper quadrant), Pancreatitis.
+-   **Red-Flag Symptoms**:
+    *   **Fever (>38.5°C or 101.3°F) and chills in the presence of suspected kidney stones:** Suggests infected obstructed urinary tract, a urological emergency requiring urgent decompression (stenting or percutaneous nephrostomy) and antibiotics.
+    *   **Severe pain that is not controlled with analgesics.**
+    *   **Nausea and vomiting preventing oral intake and hydration.**
+    *   **Anuria (no urine output):** Suggests bilateral obstruction (if both kidneys are functioning) or obstruction in a patient with a single functioning kidney. **Urological emergency.**
+    *   **Acute kidney injury (AKI):** Can occur due to obstruction.
+    *   **Symptoms in a patient with a kidney transplant.**
+-   **ICD-10 Code**: N20.0 (Calculus of kidney). N20.1 (Calculus of ureter). N20.2 (Calculus of kidney with calculus of ureter).
+-   **Laboratory Investigations**:
+    *   **Urinalysis:** To check for hematuria, signs of infection (pyuria, bacteria), and urine pH (helpful for identifying stone type).
+    *   **Urine culture:** To check for bacterial infection.
+    *   **Basic metabolic panel:** To assess renal function (creatinine, BUN) and electrolytes (calcium).
+    *   **Imaging:**
+        *   **CT scan (non-contrast helical CT):** The most sensitive and specific imaging study for detecting kidney stones.
+        *   **Renal ultrasound:** Can detect stones (especially in the kidney and proximal ureter) and hydronephrosis (swelling of the kidney due to obstruction), and avoids radiation, often used in pregnant women or children.
+        *   **Kidney, Ureter, and Bladder (KUB) X-ray:** Can detect radiopaque stones but is less sensitive than CT.
+    *   **Stone analysis:** If a stone is passed or retrieved, analysis helps determine its composition (e.g., calcium oxalate, calcium phosphate, uric acid, struvite, cystine) to guide preventive therapy.
+    *   **24-hour urine collection:** May be done in patients with recurrent stones or high risk to assess for metabolic abnormalities (e.g., hypercalciuria, hyperuricosuria, low citrate) that contribute to stone formation.
+
+---
+
+### **87. Prostatitis**
+
+-   **Symptoms**: Inflammation of the prostate gland. Can be acute bacterial, chronic bacterial, chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS), or asymptomatic inflammatory prostatitis. Symptoms vary depending on the type.
+    *   **Acute bacterial prostatitis:** Sudden onset of fever, chills, malaise, body aches, frequent urination, urgency, dysuria (painful urination), difficulty starting or stopping urination, weak urine stream, pain in the lower back, pelvis, or genital area. The prostate may be tender and swollen on digital rectal examination (DRE).
+    *   **Chronic bacterial prostatitis:** Recurrent UTIs with the same bacteria, sometimes with milder versions of the symptoms of acute bacterial prostatitis.
+    *   **Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS):** Pelvic pain lasting at least 3 of the past 6 months, often with urinary symptoms (frequency, urgency, dysuria), and/or pain with ejaculation. No evidence of bacterial infection. The most common type.
+    *   **Asymptomatic inflammatory prostatitis:** Inflammation of the prostate found incidentally (e.g., during evaluation for elevated PSA) without symptoms.
+-   **Demographics**: Acute and chronic bacterial prostatitis are more common in younger and middle-aged men. CP/CPPS can affect men of any age. Risk factors for bacterial prostatitis include UTIs, catheterization, prostate biopsy, and sexually transmitted infections. The cause of CP/CPPS is often unclear, potentially involving inflammation, nerve problems, or muscle tension.
+-   **Medications**: Treatment depends on the type of prostatitis.
+    *   **Acute bacterial prostatitis:** Requires antibiotics, typically for 4-6 weeks. Fluoroquinolones (e.g., ciprofloxacin, levofloxacin) or trimethoprim-sulfamethoxazole (TMP-SMX) are commonly used as they penetrate prostate tissue well. Hospitalization and IV antibiotics may be needed for severe cases. Alpha-blockers may help with urinary symptoms.
+    *   **Chronic bacterial prostatitis:** Requires longer courses of antibiotics (e.g., 4-6 weeks or longer).
+    *   **Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS):** Treatment is often multimodal and can be challenging. Alpha-blockers, anti-inflammatories, pain relievers, muscle relaxants, physical therapy (pelvic floor), behavioral therapy, and sometimes antibiotics (even without documented infection) may be tried.
+-   **Differential Diagnoses**: Urinary tract infection (UTI - in men, often associated with prostatitis or structural issues), Epididymitis (inflammation of the epididymis - pain and swelling in the scrotum, often with fever), Benign prostatic hyperplasia (BPH - causes urinary symptoms but typically not pain or fever), Prostate cancer (usually asymptomatic in early stages, can cause urinary symptoms or pain in advanced stages), Bladder infection, Urethritis, STIs, Interstitial cystitis.
+-   **Red-Flag Symptoms**:
+    *   **High fever, chills, severe pain, and inability to urinate (acute urinary retention):** Suggests acute bacterial prostatitis, which can lead to sepsis. Requires urgent medical attention and often hospitalization for IV antibiotics.
+    *   **Severe systemic toxicity.**
+    *   **Symptoms of spinal cord compression or cauda equina syndrome** (rare, but can occur with prostatic abscess extending into the spinal canal).
+    *   **Hematuria:** While can occur, warrants investigation to rule out other causes.
+    *   **Elevated PSA in the absence of infection:** May raise suspicion for prostate cancer, though PSA is often elevated in prostatitis.
+-   **ICD-10 Code**: N41.9 (Inflammatory disease of prostate, unspecified). More specific codes exist for acute (N41.0), chronic (N41.1), and abscess of prostate (N41.2), and prostatocystitis (N41.3). CP/CPPS may be coded under pelvic pain (R10.2).
+-   **Laboratory Investigations**:
+    *   **Urinalysis and urine culture:** Essential to check for infection. In acute bacterial prostatitis, the urine culture is typically positive. In chronic bacterial prostatitis, the urine culture may be negative between episodes, but a culture of prostatic secretions or post-massage urine may be positive.
+    *   **Digital Rectal Examination (DRE):** The prostate may be tender, swollen, and warm in acute bacterial prostatitis. Gentle palpation is recommended to avoid bacteremia.
+    *   **PSA:** Often elevated in acute and chronic prostatitis. Should be interpreted cautiously in this setting.
+    *   **CBC:** May show leukocytosis in acute bacterial prostatitis.
+
+---
+
+### **88. Erectile Dysfunction (ED)**
+
+-   **Symptoms**: The inability to achieve and maintain an erection firm enough for satisfactory sexual intercourse. Can occur occasionally or consistently. Symptoms may include difficulty getting an erection, difficulty keeping an erection, or reduced sexual desire. ED can be a symptom of underlying physical or psychological conditions and is an important indicator of cardiovascular health.
+-   **Demographics**: Prevalence increases with age, but it is not a normal part of aging. Affects men of all ages. Risk factors include cardiovascular disease (atherosclerosis, hypertension, hyperlipidemia), diabetes mellitus, obesity, smoking, excessive alcohol consumption, hormonal imbalances (e.g., low testosterone), neurological disorders (e.g., multiple sclerosis, Parkinson's disease, spinal cord injury), psychological factors (e.g., stress, anxiety, depression), certain medications (e.g., antihypertensives, antidepressants), pelvic surgery or radiation, and Peyronie's disease (scar tissue in the penis).
+-   **Medications**: Treatment depends on the underlying cause and patient preferences. Lifestyle modifications and addressing underlying conditions are crucial.
+    *   **Lifestyle Modifications:** Healthy diet, regular exercise, weight loss (if overweight or obese), smoking cessation, limiting alcohol intake.
+    *   **Addressing Underlying Conditions:** Managing diabetes, hypertension, hyperlipidemia. Screening for and treating depression or anxiety. Reviewing and adjusting medications.
+    *   **Pharmacological Therapy:**
+        *   Phosphodiesterase-5 (PDE5) inhibitors (e.g., sildenafil, tadalafil, vardenafil, avanafil) are the most common first-line treatment. They increase blood flow to the penis in response to sexual stimulation.
+        *   Alprostadil (prostaglandin E1) can be administered as an intracavernosal injection or urethral suppository.
+    *   **Other Treatments:** Vacuum erection devices, Penile implants (surgical).
+    *   **Testosterone Replacement Therapy:** May be considered for men with documented low testosterone levels and symptoms of hypogonadism (including ED), but should be used cautiously and is contraindicated in men with prostate or breast cancer.
+-   **Differential Diagnoses**: Psychological factors (performance anxiety, stress, depression, relationship issues), Cardiovascular disease (atherosclerosis is a major cause), Diabetes mellitus (can cause neuropathy and vascular damage), Hormonal imbalances (low testosterone, hyperprolactinemia), Neurological disorders, Peyronie's disease, Medication side effects, Anatomical abnormalities.
+-   **Red-Flag Symptoms**:
+    *   **ED occurring in a patient with cardiovascular risk factors (hypertension, diabetes, dyslipidemia, smoking) who has not had a cardiovascular workup:** ED can be an early sign of atherosclerosis and increased risk of heart attack or stroke. Warrants cardiovascular risk assessment.
+    *   **Symptoms suggestive of hormonal imbalance beyond ED (e.g., gynecomastia, decreased body hair, reduced testicular size):** Warrants hormonal evaluation.
+    *   **Symptoms suggestive of an underlying neurological disorder.**
+    *   **Sudden onset of ED without a clear psychological trigger:** Could indicate a vascular or neurological event.
+    *   **Priapism (a prolonged erection lasting more than 4 hours):** A medical emergency requiring immediate treatment to prevent penile tissue damage.
+-   **ICD-10 Code**: N52.9 (Male erectile dysfunction, unspecified). More specific codes exist if the cause is known (e.g., vascular, neurogenic, psychogenic).
+-   **Laboratory Investigations**: Guided by suspected underlying causes.
+    *   **Fasting glucose or HbA1c:** To screen for diabetes.
+    *   **Lipid panel:** To screen for dyslipidemia.
+    *   **Testosterone level (usually measured in the morning):** To screen for hypogonadism. Luteinizing hormone (LH) and Follicle-stimulating hormone (FSH) may also be checked.
+    *   **Prolactin level:** If hyperprolactinemia is suspected.
+    *   **Thyroid-stimulating hormone (TSH):** To rule out thyroid dysfunction.
+    *   **PSA:** May be checked before starting testosterone therapy.
+    *   **Further investigations:** Penile Doppler ultrasound (to assess blood flow), nocturnal penile tumescence testing, psychological evaluation.
+
+---
+
+### **89. Vaginitis**
+
+-   **Symptoms**: Inflammation of the vagina, commonly caused by infections (bacterial vaginosis, candidiasis, trichomoniasis) or non-infectious conditions (e.g., allergic reactions, irritants, atrophic vaginitis). Symptoms can vary depending on the cause but often include abnormal vaginal discharge (changes in color, odor, or amount), vaginal itching (pruritus), burning, irritation, pain during sexual intercourse (dyspareunia), and sometimes dysuria (painful urination).
+-   **Demographics**: Very common in women of reproductive age. Bacterial vaginosis (BV) is the most common cause. *Candida* vulvovaginitis (yeast infection) is also frequent. Trichomoniasis is a sexually transmitted infection (STI). Risk factors vary with the cause but include changes in vaginal flora (e.g., douching, antibiotic use), sexual activity (for trichomoniasis and sometimes BV), hormonal changes (e.g., menopause leading to atrophic vaginitis), diabetes, and weakened immune system.
+-   **Medications**: Treatment depends on the specific cause.
+    *   **Bacterial Vaginosis (BV):** Treated with antibiotics (e.g., oral or vaginal metronidazole, clindamycin).
+    *   ***Candida* Vulvovaginitis (Yeast Infection):** Treated with antifungal medications (e.g., topical antifungal creams or suppositories like clotrimazole, miconazole, tioconazole; or oral fluconazole).
+    *   **Trichomoniasis:** Treated with oral metronidazole or tinidazole. Sexual partners also need treatment to prevent reinfection.
+    *   **Atrophic Vaginitis (due to estrogen deficiency, typically after menopause):** Treated with topical or systemic estrogen therapy.
+    *   **Non-infectious Vaginitis:** Identifying and avoiding the irritant or allergen.
+-   **Differential Diagnoses**: Cervicitis (inflammation of the cervix - can cause discharge and bleeding), STIs (e.g., chlamydia, gonorrhea - can cause discharge, cervicitis, pelvic pain), Pelvic Inflammatory Disease (PID - infection of the upper reproductive tract, often with pelvic pain, fever, and discharge), Foreign body in the vagina, Allergic reaction (e.g., to soaps, douches, lubricants), Irritant contact dermatitis, Physiologic discharge, Vulvodynia (chronic vulvar pain).
+-   **Red-Flag Symptoms**:
+    *   **Fever or chills:** Suggests upper reproductive tract infection (PID) or other systemic infection.
+    *   **Severe pelvic pain:** Raises suspicion for PID, tubo-ovarian abscess, appendicitis, or other acute abdominal/pelvic pathology.
+    *   **Abnormal vaginal bleeding (especially post-coital or intermenstrual bleeding) in conjunction with discharge or pain:** Warrants investigation for cervical or endometrial issues.
+    *   **Symptoms of a systemic illness.**
+    *   **Recurrent or persistent symptoms despite appropriate treatment:** May require further investigation to confirm diagnosis, assess for resistance, or identify underlying factors.
+    *   **Symptoms of potential STI exposure:** Warrants testing for multiple STIs.
+-   **ICD-10 Code**: N76.9 (Vaginitis, unspecified). More specific codes exist for specific types: N76.0 (Acute vaginitis), N76.1 (Subacute and chronic vaginitis), B37.3 (Candidiasis of vulva and vagina), A59.01 (Trichomonal vaginitis), N76.2 (Acute vulvitis), N76.3 (Subacute and chronic vulvitis), N76.81 (Superinfection of vulva and vagina), N95.2 (Atrophic vaginitis).
+-   **Laboratory Investigations**: Diagnosis is typically based on history, physical examination (including speculum examination), and laboratory tests of vaginal discharge.
+    *   **Microscopic examination of vaginal discharge:** Saline wet mount (to look for clue cells suggestive of BV, motile trichomonads), KOH prep ("whiff test" for fishy odor suggests BV, helps identify yeast).
+    *   **Vaginal pH testing:** Elevated pH (>4.5) is typical in BV and trichomoniasis, normal in candidiasis.
+    *   **Nucleic acid amplification tests (NAATs):** Highly sensitive tests for detecting *Trichomonas vaginalis*, *Chlamydia trachomatis*, and *Neisseria gonorrhoeae* from vaginal swabs. Recommended if STIs are suspected.
+    *   **Fungal culture:** If candidiasis is suspected but wet mount is negative, or for recurrent yeast infections.
+    *   **Bacterial culture:** Rarely needed for routine vaginitis.
+
+---
+
+### **90. Menopause and Perimenopause Symptoms**
+
+-   **Symptoms**: Menopause is the time that marks the end of a woman's menstrual cycles, diagnosed after 12 consecutive months without a period. Perimenopause is the transitional period leading up to menopause, which can last for several years. Symptoms are caused by declining estrogen levels.
+    *   **Common symptoms:** Vasomotor symptoms (hot flashes - sudden feelings of warmth, often with sweating, especially at night; night sweats), menstrual irregularities (in perimenopause, periods become less predictable, heavier, lighter, or skipped), vaginal dryness, discomfort during intercourse (dyspareunia), urinary symptoms (urgency, frequency, increased UTIs), sleep disturbances (often due to hot flashes or night sweats), mood changes (irritability, anxiety, depression), difficulty concentrating ("brain fog"), fatigue, hair thinning, dry skin, weight gain (often abdominal), joint aches and stiffness.
+    *   **Long-term consequences of estrogen deficiency:** Increased risk of osteoporosis, cardiovascular disease, and genitourinary syndrome of menopause.
+-   **Demographics**: Menopause typically occurs around age 51 in the developed world, but the perimenopausal transition can begin in the 40s. Surgical removal of the ovaries (oophorectomy) causes immediate surgical menopause.
+-   **Medications/Management**: Management focuses on alleviating bothersome symptoms and mitigating long-term health risks. Treatment is individualized.
+    *   **Lifestyle Modifications:** Healthy diet, regular exercise, maintaining a healthy weight, avoiding triggers for hot flashes (e.g., spicy foods, hot drinks, alcohol, caffeine), smoking cessation.
+    *   **Hormone Replacement Therapy (HRT) or Menopausal Hormone Therapy (MHT):** The most effective treatment for vasomotor symptoms and genitourinary syndrome of menopause. Involves taking estrogen, often combined with progesterone (for women with a uterus to protect against endometrial cancer). Available in various forms (pills, patches, gels, sprays, vaginal rings/creams/tablets). Benefits and risks should be discussed with each patient, considering age, time since menopause, dose, duration of use, and route of administration.
+    *   **Non-hormonal Medications for Vasomotor Symptoms:** SSRIs (e.g., paroxetine, escitalopram), SNRIs (e.g., venlafaxine, desvenlafaxine), Gabapentin, Clonidine.
+    *   **For Genitourinary Syndrome of Menopause:** Vaginal estrogen therapy (low-dose, has minimal systemic absorption), Ospemifene (an oral SERM), vaginal moisturizers and lubricants.
+    *   **For Osteoporosis Prevention/Treatment:** Calcium and vitamin D, weight-bearing exercise, and anti-resorptive or anabolic medications (as discussed in the Osteoporosis section).
+-   **Differential Diagnoses**: Thyroid dysfunction (hyper- or hypothyroidism can cause menstrual irregularities, mood changes, fatigue, temperature sensitivity), Depression, Anxiety disorder, Hyperhidrosis (excessive sweating), Pheochromocytoma (rare, causing episodic symptoms), Medication side effects, Other causes of irregular bleeding (in perimenopause).
+-   **Red-Flag Symptoms (in perimenopause or postmenopause):**
+    *   **Any postmenopausal bleeding (bleeding occurring after 12 consecutive months without a period):** Requires urgent investigation (transvaginal ultrasound and often endometrial biopsy) to rule out endometrial hyperplasia or endometrial cancer.
+    *   **Persistent abnormal bleeding in perimenopause (e.g., very heavy or prolonged bleeding, bleeding between periods) that is not typical of the transition:** Warrants investigation.
+    *   **New onset or worsening symptoms that could indicate other serious conditions (e.g., chest pain - consider cardiovascular disease, significant weight loss - consider malignancy).**
+    *   **Severe mood disturbances or suicidal ideation.**
+-   **ICD-10 Code**: N95.1 (Menopausal and female climacteric states). N95.0 (Postmenopausal bleeding). N95.2 (Atrophic vaginitis).
+-   **Laboratory Investigations**: Diagnosis of menopause is clinical (12 months amenorrhea). Hormonal tests are generally not needed to diagnose menopause in women in the typical age range with classic symptoms, but may be done in younger women or those with atypical presentations.
+    *   **Follicle-stimulating hormone (FSH) and Estradiol:** FSH levels are typically elevated and estradiol levels are low in menopause. Levels can fluctuate in perimenopause.
+    *   **Thyroid-stimulating hormone (TSH):** To rule out thyroid dysfunction.
+    *   **Other tests:** Based on differential diagnoses or comorbidities (e.g., lipid panel, fasting glucose, bone density scan for osteoporosis screening).
+    *   **Pelvic ultrasound and/or endometrial biopsy:** Indicated for abnormal or postmenopausal bleeding.
+
+---
