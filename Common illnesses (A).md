@@ -439,57 +439,197 @@
 
 ---
 
-#### **Additional Conditions (71–100)**  
-The remaining 30 conditions include:  
-71. **GERD**  
-72. **Peptic Ulcer Disease**  
-73. **Irritable Bowel Syndrome (IBS)**  
-74. **Hypertension**  
-75. **Type 2 Diabetes Mellitus**  
-76. **Hyperlipidemia**  
-77. **Coronary Artery Disease (CAD)**  
-78. **Heart Failure**  
-79. **Upper Respiratory Tract Infection (URTI)**  
-80. **Asthma**  
-81. **Chronic Obstructive Pulmonary Disease (COPD)**  
-82. **Pneumonia**  
-83. **Allergic Rhinitis**  
-84. **Urinary Tract Infection (UTI)**  
-85. **Influenza**  
-86. **Cellulitis**  
-87. **Lyme Disease**  
-88. **Gastroenteritis**  
+#### **Cardiovascular & Metabolic Disorders**  
+71. **Essential Hypertension**  
+   - **Symptoms**: Often asymptomatic; severe cases may present with headaches, dizziness, or shortness of breath.  
+   - **Demographics**: Age >45 years; males > females pre-menopause; higher prevalence in Black populations.  
+   - **Medications**: Thiazide diuretics (e.g., hydrochlorothiazide), ACE inhibitors (e.g., lisinopril).  
+   - **Source**: Most common diagnosis in U.S. primary care (5.5% of visits in 2022) .  
+
+72. **Type 2 Diabetes Mellitus**  
+   - **Symptoms**: Polyuria, polydipsia, fatigue, blurred vision.  
+   - **Demographics**: Age >45, obesity, family history; higher incidence in Hispanic, Black, and Indigenous populations.  
+   - **Medications**: Metformin (first-line), GLP-1 receptor agonists, insulin.  
+   - **Source**: Among top clinician-reported diagnoses .  
+
+73. **Hyperlipidemia**  
+   - **Symptoms**: Asymptomatic; xanthomas, arcus senilis in severe cases.  
+   - **Demographics**: Age >40; associated with metabolic syndrome.  
+   - **Medications**: Statins (e.g., atorvastatin), ezetimibe, PCSK9 inhibitors.  
+   - **Source**: Frequently managed in primary care .  
+
+74. **Coronary Artery Disease (CAD)**  
+   - **Symptoms**: Chest pain, dyspnea, fatigue.  
+   - **Demographics**: Males > females; age >60; smokers, diabetics.  
+   - **Medications**: Aspirin, beta-blockers (e.g., metoprolol), nitrates.  
+
+75. **Heart Failure**  
+   - **Symptoms**: Dyspnea, edema, fatigue.  
+   - **Demographics**: Age >65; history of CAD or hypertension.  
+   - **Medications**: ACE inhibitors, diuretics (e.g., furosemide), beta-blockers.  
+
+---
+
+#### **Respiratory Conditions**  
+76. **Upper Respiratory Tract Infection (URTI)**  
+   - **Symptoms**: Sore throat, rhinorrhea, cough, low-grade fever.  
+   - **Demographics**: All ages; peaks in children and elderly. Seasonal variation noted.  
+   - **Medications**: Symptomatic (e.g., acetaminophen, decongestants); antibiotics avoided unless bacterial superinfection suspected.  
+   - **Source**: Top 10 clinician-reported reason for visits .  
+
+77. **Asthma**  
+   - **Symptoms**: Wheezing, dyspnea, chest tightness, cough.  
+   - **Demographics**: Pediatric onset common; adults may develop occupational asthma.  
+   - **Medications**: Inhaled corticosteroids (e.g., fluticasone), short-acting beta-agonists (e.g., albuterol).  
+
+78. **Chronic Obstructive Pulmonary Disease (COPD)**  
+   - **Symptoms**: Chronic cough, sputum production, exertional dyspnea.  
+   - **Demographics**: Smokers >40 years; coal miners, construction workers.  
+   - **Medications**: Long-acting bronchodilators (e.g., tiotropium), inhaled steroids.  
+
+79. **Pneumonia**  
+   - **Symptoms**: Fever, productive cough, pleuritic chest pain.  
+   - **Demographics**: Elderly, smokers, immunocompromised.  
+   - **Medications**: Amoxicillin (community-acquired), azithromycin, ceftriaxone.  
+
+80. **Allergic Rhinitis**  
+   - **Symptoms**: Sneezing, nasal congestion, itchy eyes.  
+   - **Demographics**: All ages; seasonal or perennial.  
+   - **Medications**: Antihistamines (e.g., loratadine), nasal corticosteroids (e.g., fluticasone).  
+
+---
+
+#### **Infectious Diseases**  
+81. **Urinary Tract Infection (UTI)**  
+   - **Symptoms**: Dysuria, urgency, hematuria, flank pain (if pyelonephritis).  
+   - **Demographics**: Females > males (50% lifetime risk); elderly and pregnant patients at higher risk.  
+   - **Medications**: Nitrofurantoin, trimethoprim-sulfamethoxazole; culture-guided therapy preferred.  
+   - **Source**: Common in primary care .  
+
+82. **Influenza**  
+   - **Symptoms**: Fever, myalgia, cough, fatigue.  
+   - **Demographics**: All ages; elderly and immunocompromised at higher risk.  
+   - **Medications**: Oseltamivir (if within 48 hours of symptom onset), supportive care.  
+
+83. **Cellulitis**  
+   - **Symptoms**: Erythematous, warm, tender skin; fever in severe cases.  
+   - **Demographics**: Trauma, diabetes, obesity.  
+   - **Medications**: Cephalexin, clindamycin; IV antibiotics for severe cases.  
+
+84. **Lyme Disease**  
+   - **Symptoms**: Erythema migrans rash, arthralgia, fatigue.  
+   - **Demographics**: Endemic regions (Northeast, Midwest U.S.).  
+   - **Medications**: Doxycycline, amoxicillin.  
+
+85. **Gastroenteritis**  
+   - **Symptoms**: Diarrhea, vomiting, abdominal cramps.  
+   - **Demographics**: Children (rotavirus), adults (norovirus).  
+   - **Medications**: Oral rehydration, loperamide (symptomatic).  
+
+---
+
+#### **Gastrointestinal Disorders**  
+86. **GERD (Gastroesophageal Reflux Disease)**  
+   - **Symptoms**: Heartburn, regurgitation, dysphagia.  
+   - **Demographics**: Obesity, age >40.  
+   - **Medications**: PPIs (e.g., omeprazole), H2 blockers (e.g., ranitidine).  
+
+87. **Peptic Ulcer Disease**  
+   - **Symptoms**: Epigastric pain, bloating, melena.  
+   - **Demographics**: *H. pylori* infection, NSAID users.  
+   - **Medications**: PPIs, triple therapy for *H. pylori* (clarithromycin + amoxicillin + PPI).  
+
+88. **Irritable Bowel Syndrome (IBS)**  
+   - **Symptoms**: Abdominal pain, bloating, diarrhea/constipation.  
+   - **Demographics**: Age 20–50; females > males.  
+   - **Medications**: Loperamide (diarrhea), lubiprostone (constipation), tricyclic antidepressants.  
+
+---
+
+#### **Mental Health Disorders**  
 89. **Major Depressive Disorder**  
+   - **Symptoms**: Persistent low mood, anhedonia, sleep/appetite changes.  
+   - **Demographics**: Age 25–49 peak; females > males (2:1 ratio).  
+   - **Medications**: SSRIs (e.g., sertraline), SNRIs; psychotherapy adjunctive.  
+   - **Source**: Top 10 clinician-reported diagnosis .  
+
 90. **Generalized Anxiety Disorder (GAD)**  
-91. **ADHD**  
-92. **Osteoarthritis**  
-93. **Rheumatoid Arthritis**  
-94. **Migraine**  
-95. **Epilepsy**  
+   - **Symptoms**: Excessive worry, restlessness, insomnia.  
+   - **Demographics**: Age 30–50; females > males.  
+   - **Medications**: SSRIs, buspirone, benzodiazepines (short-term).  
+
+---
+
+#### **Musculoskeletal & Connective Tissue Disorders**  
+91. **Osteoarthritis**  
+   - **Symptoms**: Joint pain, stiffness, crepitus.  
+   - **Demographics**: Age >60; postmenopausal women, athletes.  
+   - **Medications**: NSAIDs (e.g., ibuprofen), acetaminophen, intra-articular corticosteroids.  
+   - **Source**: Common in primary care .  
+
+92. **Rheumatoid Arthritis**  
+   - **Symptoms**: Morning stiffness, joint swelling, fatigue.  
+   - **Demographics**: Age 30–60; females > males (3:1).  
+   - **Medications**: Methotrexate (first-line), NSAIDs, biologics.  
+
+---
+
+#### **Neurological Disorders**  
+93. **Migraine**  
+   - **Symptoms**: Pulsating headache, photophobia, nausea.  
+   - **Demographics**: Age 18–44, females > males (3:1).  
+   - **Medications**: Triptans (e.g., sumatriptan), prophylactic beta-blockers (e.g., propranolol).  
+   - **Source**: Frequently managed in primary care .  
+
+94. **Epilepsy**  
+   - **Symptoms**: Seizures, loss of consciousness, post-ictal confusion.  
+   - **Demographics**: Pediatric or elderly onset.  
+   - **Medications**: Levetiracetam, lamotrigine, valproic acid.  
+
+---
+
+#### **Endocrine & Hormonal Disorders**  
+95. **Hypothyroidism**  
+   - **Symptoms**: Fatigue, weight gain, cold intolerance.  
+   - **Demographics**: Females > males; age >60.  
+   - **Medications**: Levothyroxine.  
+
 96. **Polycystic Ovary Syndrome (PCOS)**  
+   - **Symptoms**: Menstrual irregularity, hirsutism, acne.  
+   - **Demographics**: Reproductive-age females.  
+   - **Medications**: Oral contraceptives, metformin.  
+
+---
+
+#### **Dermatological Conditions**  
 97. **Eczema (Atopic Dermatitis)**  
+   - **Symptoms**: Itchy, erythematous, scaly patches.  
+   - **Demographics**: Pediatric onset; adults with dry skin.  
+   - **Medications**: Topical corticosteroids, emollients.  
+
 98. **Psoriasis**  
+   - **Symptoms**: Silvery plaques, joint pain (psoriatic arthritis).  
+   - **Demographics**: Age 15–35; family history.  
+   - **Medications**: Topical steroids, methotrexate, biologics.  
+
+---
+
+#### **Urological & Nephrological Conditions**  
 99. **Benign Prostatic Hyperplasia (BPH)**  
+   - **Symptoms**: Urinary frequency, weak stream, nocturia.  
+   - **Demographics**: Males >50 years.  
+   - **Medications**: Alpha-blockers (e.g., tamsulosin), 5-alpha reductase inhibitors (e.g., finasteride).  
+
+---
+
+#### **Oncological (Screening & Preventive Care)**  
 100. **Breast Cancer Screening**  
-
-Each of these follows the structure outlined in the original 31 conditions, with symptoms, demographics, and medications tailored to their clinical presentation. For example:  
-
-**Example: Polycystic Ovary Syndrome (PCOS)**  
-- **Symptoms**: Menstrual irregularity, hirsutism, acne.  
-- **Demographics**: Reproductive-age females.  
-- **Medications**: Oral contraceptives, metformin .  
+   - **Symptoms**: Breast lump, nipple discharge, skin dimpling.  
+   - **Demographics**: Females >40; BRCA mutation carriers.  
+   - **Medications**: Mammography (screening); hormonal therapy (e.g., tamoxifen) for prevention.  
 
 ---
 
 ### **Final Notes**  
-- **Data Sources**:  
-  - Chronic conditions account for 40.8% of primary care visits .  
-  - Top diagnoses include hypertension, diabetes, arthritis, and depression .  
-- **Validation**: Cross-reference with CDC guidelines, UpToDate, or ICD-10 codes for billing and management.  
-
-Would you like me to:  
-1. Provide **differential diagnoses** for critical conditions (e.g., chest pain, headache)?  
-2. Include **red-flag symptoms** for urgent referrals (e.g., cancer, stroke)?  
-3. Add **ICD-10 codes** or **laboratory investigations** for each condition?  
-
-This comprehensive list ensures you’re equipped to address the full spectrum of primary care presentations. Let me know how to refine it further!
+- **Validation**: Cross-reference diagnoses with ICD-10 codes  and CDC guidelines.  
+- **Trends**: Chronic conditions (e.g., hypertension, diabetes) dominate primary care , while acute infections remain common in pediatrics .  
