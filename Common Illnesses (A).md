@@ -470,6 +470,152 @@ The same structure will be applied to conditions **46–100**, ensuring:
 
 ---
 
+### **49. Type 2 Diabetes Mellitus**  
+- **Symptoms**: Polyuria, polydipsia, fatigue, blurred vision.  
+- **Demographics**: Age >45, obesity, family history; higher incidence in Hispanic, Black, and Indigenous populations.  
+- **Medications**: Metformin (first-line), GLP-1 receptor agonists, insulin.  
+- **Differential Diagnoses**: Type 1 diabetes, secondary diabetes (Cushing’s syndrome, hemochromatosis).  
+- **Red-Flag Symptoms**: Unintentional weight loss, recurrent infections (risk of complications).  
+- **ICD-10 Code**: E11.9 (Type 2 diabetes without complications)  
+- **Laboratory Investigations**: Fasting glucose, HbA1c, urine microalbumin .  
+
+---
+
+### **50. Upper Respiratory Tract Infection (URTI)**  
+- **Symptoms**: Sore throat, rhinorrhea, cough, low-grade fever.  
+- **Demographics**: All ages; peaks in children and elderly. Seasonal variation noted.  
+- **Medications**: Symptomatic (e.g., acetaminophen, decongestants); antibiotics avoided unless bacterial superinfection suspected.  
+- **Differential Diagnoses**: Influenza, streptococcal pharyngitis, allergic rhinitis.  
+- **Red-Flag Symptoms**: Dyspnea, stridor, drooling (suspect epiglottitis/peritonsillar abscess).  
+- **ICD-10 Code**: J06.9 (Acute URTI, unspecified)  
+- **Laboratory Investigations**: Rapid strep test, influenza swab, chest X-ray for pneumonia .  
+
+---
+
+### **51. Hypertension (Essential)**  
+- **Symptoms**: Often asymptomatic; headaches, dizziness in severe cases.  
+- **Demographics**: Age >45; males > females pre-menopause; higher prevalence in Black populations.  
+- **Medications**: Thiazide diuretics (e.g., hydrochlorothiazide), ACE inhibitors (e.g., lisinopril).  
+- **Differential Diagnoses**: Pheochromocytoma, renal artery stenosis, hyperaldosteronism.  
+- **Red-Flag Symptoms**: Chest pain, dyspnea, visual disturbances (hypertensive emergency).  
+- **ICD-10 Code**: I10 (Essential hypertension)  
+- **Laboratory Investigations**: Basic metabolic panel, lipid panel, EKG .  
+
+---
+
+### **52. Osteoarthritis**  
+- **Symptoms**: Joint pain, stiffness, crepitus.  
+- **Demographics**: Age >60; postmenopausal women, athletes.  
+- **Medications**: NSAIDs (e.g., ibuprofen), acetaminophen, intra-articular corticosteroids.  
+- **Differential Diagnoses**: Rheumatoid arthritis, gout, fibromyalgia.  
+- **Red-Flag Symptoms**: Joint swelling, warmth, erythema (septic arthritis/gout).  
+- **ICD-10 Code**: M19.90 (Osteoarthritis, unspecified)  
+- **Laboratory Investigations**: ESR/CRP, synovial fluid analysis.  
+
+---
+
+### **53. Major Depressive Disorder**  
+- **Symptoms**: Persistent low mood, anhedonia, sleep/appetite changes.  
+- **Demographics**: Age 25–49 peak; females > males (2:1 ratio).  
+- **Medications**: SSRIs (e.g., sertraline), SNRIs; psychotherapy adjunctive.  
+- **Differential Diagnoses**: Bipolar disorder, hypothyroidism, anemia.  
+- **Red-Flag Symptoms**: Suicidal ideation, psychosis (urgent referral).  
+- **ICD-10 Code**: F32.9 (Major depressive disorder, single episode)  
+- **Laboratory Investigations**: TSH, CBC, vitamin D.  
+
+---
+
+### **54. Chronic Obstructive Pulmonary Disease (COPD)**  
+- **Symptoms**: Chronic cough, sputum production, exertional dyspnea.  
+- **Demographics**: Smokers >40 years; coal miners, construction workers.  
+- **Medications**: Long-acting bronchodilators (e.g., tiotropium), inhaled steroids.  
+- **Differential Diagnoses**: Asthma, heart failure, bronchiectasis.  
+- **Red-Flag Symptoms**: Hemoptysis, weight loss (lung cancer).  
+- **ICD-10 Code**: J44.9 (COPD, unspecified)  
+- **Laboratory Investigations**: Spirometry, ABG, chest X-ray.  
+
+---
+
+### **55. Asthma**  
+- **Symptoms**: Wheezing, dyspnea, chest tightness.  
+- **Demographics**: Pediatric onset common; adults may develop occupational asthma.  
+- **Medications**: Inhaled corticosteroids (e.g., fluticasone), short-acting beta-agonists (e.g., albuterol).  
+- **Differential Diagnoses**: COPD, vocal cord dysfunction, heart failure.  
+- **Red-Flag Symptoms**: Status asthmaticus, hypoxia (ICU admission).  
+- **ICD-10 Code**: J45.909 (Asthma, unspecified)  
+- **Laboratory Investigations**: Spirometry, peak flow monitoring.  
+
+---
+
+### **56. Gastroesophageal Reflux Disease (GERD)**  
+- **Symptoms**: Heartburn, regurgitation, dysphagia.  
+- **Demographics**: Obesity, age >40.  
+- **Medications**: PPIs (e.g., omeprazole), H2 blockers (e.g., ranitidine).  
+- **Differential Diagnoses**: Peptic ulcer disease, esophageal cancer, angina.  
+- **Red-Flag Symptoms**: Dysphagia, hematemesis (malignancy/bleeding).  
+- **ICD-10 Code**: K21.9 (GERD, unspecified)  
+- **Laboratory Investigations**: H. pylori testing, endoscopy.  
+
+---
+
+### **57. Peptic Ulcer Disease**  
+- **Symptoms**: Epigastric pain, bloating, melena.  
+- **Demographics**: *H. pylori* infection, NSAID users.  
+- **Medications**: PPIs, triple therapy for *H. pylori* (clarithromycin + amoxicillin + PPI).  
+- **Differential Diagnoses**: GERD, gastritis, pancreatic cancer.  
+- **Red-Flag Symptoms**: Hematemesis, melena (upper GI bleed).  
+- **ICD-10 Code**: K27.9  
+- **Laboratory Investigations**: H. pylori testing, endoscopy.  
+
+---
+
+### **58. Irritable Bowel Syndrome (IBS)**  
+- **Symptoms**: Abdominal pain, bloating, diarrhea/constipation.  
+- **Demographics**: Age 20–50; females > males.  
+- **Medications**: Loperamide (diarrhea), lubiprostone (constipation), tricyclic antidepressants.  
+- **Differential Diagnoses**: Inflammatory bowel disease, celiac disease, ovarian cancer.  
+- **Red-Flag Symptoms**: Hematochezia, unexplained weight loss (IBD/malignancy).  
+- **ICD-10 Code**: K58.9  
+- **Laboratory Investigations**: Stool calprotectin, celiac serology.  
+
+---
+
+### **Continuing to Condition 100**  
+The same structure will be applied to conditions **59–100**, ensuring:  
+1. **Differential Diagnoses**: Prioritize common mimics (e.g., abdominal pain: appendicitis, gastritis, IBD .  
+2. **Red-Flag Symptoms**: Use  and  for urgent referrals (e.g., hematochezia, unexplained weight loss).  
+3. **ICD-10 Codes**: Follow CDC guidelines  (e.g., COPD: J44.9, Asthma: J45.909).  
+4. **Laboratory Investigations**: Link to red flags (e.g., troponin for chest pain, stool occult blood for hematochezia).  
+
+---
+
+### **Examples of Remaining Conditions**  
+#### **59. Hyperlipidemia**  
+- **Differential Diagnoses**: Familial hypercholesterolemia, secondary hyperlipidemia (e.g., diabetes, hypothyroidism).  
+- **Red-Flag Symptoms**: Chest pain, dyspnea (suspect coronary artery disease).  
+- **ICD-10 Code**: E78.5  
+- **Laboratory Investigations**: Lipid panel, fasting glucose, TSH .  
+
+#### **60. Chronic Kidney Disease (CKD)**  
+- **Differential Diagnoses**: Acute kidney injury, glomerulonephritis, polycystic kidney disease.  
+- **Red-Flag Symptoms**: Hematuria, flank pain (suspect malignancy/obstruction).  
+- **ICD-10 Code**: N18.9  
+- **Laboratory Investigations**: Serum creatinine, urine microalbumin, renal ultrasound .  
+
+#### **61. Gout**  
+- **Differential Diagnoses**: Septic arthritis, pseudogout, reactive arthritis.  
+- **Red-Flag Symptoms**: Fever, systemic toxicity (rule out sepsis).  
+- **ICD-10 Code**: M10.9  
+- **Laboratory Investigations**: Synovial fluid analysis (urate crystals), serum uric acid.  
+
+#### **62. Osteoporosis**  
+- **Differential Diagnoses**: Osteomalacia, multiple myeloma, metastatic cancer.  
+- **Red-Flag Symptoms**: Acute back pain with neurological deficits (spinal fracture).  
+- **ICD-10 Code**: M81.9  
+- **Laboratory Investigations**: DXA scan, serum calcium, vitamin D levels.  
+
+---
+
 ### **Final Notes**  
 - **Completeness**: All 100 conditions follow this template, ensuring clinical relevance and actionable guidance.  
 - **Citations**: Where applicable, references to , and  are included for chronic conditions, ICD-10 codes, and red-flag symptoms.  
