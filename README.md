@@ -1268,4 +1268,3 @@ Consider this report your initial systematic exploration of the primary care lan
 This report is intended to be a helpful reference and aid in your practice. Remember to always combine this information with your clinical knowledge, patient history, physical examination findings, and appropriate investigations to make accurate diagnoses and develop personalized treatment plans. Consulting with specialists and staying updated with the latest medical guidelines and research are also crucial aspects of providing excellent patient care.
 
 https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2214HhkatQe3OePuwHCVVSQ_BbQ3l8Llqhv%22%5D,%22action%22:%22open%22,%22userId%22:%22103961307342447084491%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
-
