@@ -440,16 +440,6 @@ The same structure will be applied to conditions **31–100**, ensuring:
 
 ---
 
-### **Continuing to Condition 100**  
-The same structure will be applied to conditions **46–100**, ensuring:  
-1. **Differential Diagnoses**: Prioritize common mimics (e.g., abdominal pain: appendicitis, gastritis, IBD .  
-2. **Red-Flag Symptoms**: Use  and  for urgent referrals (e.g., hematochezia, unexplained weight loss).  
-3. **ICD-10 Codes**: Follow CDC guidelines  (e.g., COPD: J44.9, Asthma: J45.909).  
-4. **Laboratory Investigations**: Link to red flags (e.g., troponin for chest pain, stool occult blood for hematochezia .  
-
----
-
-### **Examples of Remaining Conditions**  
 #### **46. Peptic Ulcer Disease**  
 - **Differential Diagnoses**: GERD, gastritis, pancreatic cancer.  
 - **Red-Flag Symptoms**: Hematemesis, melena (upper GI bleed).  
