@@ -830,3 +830,248 @@ Below is the continuation of the report for conditions **59–100**, following t
 
 ---
 
+### **79. Urinary Tract Infection (UTI)**  
+- **Symptoms**: Dysuria, urgency, hematuria, flank pain (pyelonephritis).  
+- **Demographics**: Females > males (50% lifetime risk); elderly and pregnant patients at higher risk.  
+- **Medications**: Nitrofurantoin, trimethoprim-sulfamethoxazole; culture-guided therapy preferred.  
+- **Differential Diagnoses**: Cystitis, pyelonephritis, sexually transmitted infections (e.g., gonorrhea, chlamydia).  
+- **Red-Flag Symptoms**: Fever >38.5°C, costovertebral angle tenderness (suspect pyelonephritis).  
+- **ICD-10 Code**: N39.0 (Unspecified urinary tract infection)  
+- **Laboratory Investigations**: Urinalysis, urine culture, renal function tests.  
+
+---
+
+### **80. Pneumonia**  
+- **Symptoms**: Fever, productive cough, pleuritic chest pain.  
+- **Demographics**: Elderly, smokers, immunocompromised.  
+- **Medications**: Amoxicillin (community-acquired), azithromycin, ceftriaxone.  
+- **Differential Diagnoses**: COPD exacerbation, pulmonary embolism, tuberculosis.  
+- **Red-Flag Symptoms**: Hemoptysis, unexplained weight loss (suspect lung cancer).  
+- **ICD-10 Code**: J18.9 (Pneumonia, unspecified organism)  
+- **Laboratory Investigations**: Chest X-ray, sputum culture, blood cultures (if septic).  
+
+---
+
+### **81. Cellulitis**  
+- **Symptoms**: Erythematous, warm, tender skin; fever in severe cases.  
+- **Demographics**: Trauma, diabetes, obesity.  
+- **Medications**: Cephalexin, clindamycin; IV antibiotics for severe cases.  
+- **Differential Diagnoses**: Erysipelas, necrotizing fasciitis, contact dermatitis.  
+- **Red-Flag Symptoms**: Crepitus, bullae, systemic toxicity (suspect necrotizing fasciitis).  
+- **ICD-10 Code**: L03.90 (Cellulitis, unspecified)  
+- **Laboratory Investigations**: CBC, CRP, wound cultures (if purulent).  
+
+---
+
+### **82. Lyme Disease**  
+- **Symptoms**: Erythema migrans rash, arthralgia, fatigue.  
+- **Demographics**: Endemic regions (Northeast, Midwest U.S.).  
+- **Medications**: Doxycycline, amoxicillin.  
+- **Differential Diagnoses**: Tick-borne encephalitis, rheumatoid arthritis, syphilis.  
+- **Red-Flag Symptoms**: Neurological deficits (e.g., facial nerve palsy, meningitis).  
+- **ICD-10 Code**: A69.20 (Lyme disease, unspecified)  
+- **Laboratory Investigations**: ELISA for Borrelia burgdorferi, confirmatory Western blot.  
+
+---
+
+### **83. Gastroenteritis**  
+- **Symptoms**: Diarrhea, vomiting, abdominal cramps.  
+- **Demographics**: Children (rotavirus), adults (norovirus).  
+- **Medications**: Oral rehydration, loperamide (symptomatic).  
+- **Differential Diagnoses**: Food poisoning, inflammatory bowel disease (IBD), irritable bowel syndrome (IBS).  
+- **Red-Flag Symptoms**: Hematochezia, fever >38.5°C, dehydration (hospitalization required).  
+- **ICD-10 Code**: K52.9 (Noninfective gastroenteritis, unspecified)  
+- **Laboratory Investigations**: Stool PCR for pathogens, electrolytes.  
+
+---
+
+### **84. Anemia (Iron Deficiency)**  
+- **Symptoms**: Pallor, fatigue, dyspnea.  
+- **Demographics**: Pre-menopausal women, children.  
+- **Medications**: Oral iron supplements (ferrous sulfate), IV iron for intolerance.  
+- **Differential Diagnoses**: Anemia of chronic disease, thalassemia, B12 deficiency.  
+- **Red-Flag Symptoms**: Unintentional weight loss, night sweats (suspect malignancy).  
+- **ICD-10 Code**: D50.9 (Iron deficiency anemia, unspecified)  
+- **Laboratory Investigations**: Ferritin, serum iron, TIBC, CBC.  
+
+---
+
+### **85. Hypothyroidism**  
+- **Symptoms**: Fatigue, weight gain, cold intolerance.  
+- **Demographics**: Females > males; age >60.  
+- **Medications**: Levothyroxine.  
+- **Differential Diagnoses**: Depression, anemia, chronic fatigue syndrome.  
+- **Red-Flag Symptoms**: Bradycardia, hypothermia (myxedema coma).  
+- **ICD-10 Code**: E03.9 (Hypothyroidism, unspecified)  
+- **Laboratory Investigations**: TSH, free T4, lipid panel.  
+
+---
+
+### **86. Polycystic Ovary Syndrome (PCOS)**  
+- **Symptoms**: Menstrual irregularity, hirsutism, acne.  
+- **Demographics**: Reproductive-age females.  
+- **Medications**: Oral contraceptives, metformin.  
+- **Differential Diagnoses**: Thyroid dysfunction, hyperprolactinemia, congenital adrenal hyperplasia.  
+- **Red-Flag Symptoms**: Rapid weight gain, striae (suspect Cushing’s syndrome).  
+- **ICD-10 Code**: E28.2 (Polycystic ovary syndrome)  
+- **Laboratory Investigations**: LH/FSH ratio, testosterone, TSH, fasting glucose.  
+
+---
+
+### **87. Eczema (Atopic Dermatitis)**  
+- **Symptoms**: Itchy, erythematous, scaly patches.  
+- **Demographics**: Pediatric onset; adults with dry skin.  
+- **Medications**: Topical corticosteroids, emollients.  
+- **Differential Diagnoses**: Contact dermatitis, psoriasis, scabies.  
+- **Red-Flag Symptoms**: Erythroderma (widespread erythema, systemic toxicity).  
+- **ICD-10 Code**: L20.9 (Atopic dermatitis, unspecified)  
+- **Laboratory Investigations**: Skin scraping (fungal infection), patch testing (allergens).  
+
+---
+
+### **88. Psoriasis**  
+- **Symptoms**: Silvery plaques, joint pain (psoriatic arthritis).  
+- **Demographics**: Age 15–35; family history.  
+- **Medications**: Topical steroids, methotrexate, biologics.  
+- **Differential Diagnoses**: Seborrheic dermatitis, lichen planus, secondary syphilis.  
+- **Red-Flag Symptoms**: Arthritis mutilans (destructive joint disease).  
+- **ICD-10 Code**: L40.9 (Psoriasis, unspecified)  
+- **Laboratory Investigations**: Skin biopsy, rheumatoid factor (if arthritis suspected).  
+
+---
+
+### **89. Benign Prostatic Hyperplasia (BPH)**  
+- **Symptoms**: Urinary frequency, weak stream, nocturia.  
+- **Demographics**: Males >50 years.  
+- **Medications**: Alpha-blockers (e.g., tamsulosin), 5-alpha reductase inhibitors (e.g., finasteride).  
+- **Differential Diagnoses**: Prostate cancer, urinary tract infection, neurogenic bladder.  
+- **Red-Flag Symptoms**: Hematuria, bone pain (suspect prostate cancer).  
+- **ICD-10 Code**: N40.1 (BPH with lower urinary tract symptoms)  
+- **Laboratory Investigations**: PSA, urinalysis, renal function tests.  
+
+---
+
+### **90. Breast Cancer Screening**  
+- **Symptoms**: Breast lump, nipple discharge, skin dimpling.  
+- **Demographics**: Females >40; BRCA mutation carriers.  
+- **Medications**: Mammography (screening); hormonal therapy (e.g., tamoxifen) for prevention.  
+- **Differential Diagnoses**: Fibroadenoma, cyst, mastitis.  
+- **Red-Flag Symptoms**: Fixed, irregular mass (high suspicion for malignancy).  
+- **ICD-10 Code**: Z12.31 (Screening mammogram for breast cancer)  
+- **Laboratory Investigations**: Mammogram, ultrasound, biopsy (if suspicious lesion).  
+
+---
+
+### **91. Influenza**  
+- **Symptoms**: Fever, myalgia, cough, fatigue.  
+- **Demographics**: All ages; elderly and immunocompromised at higher risk.  
+- **Medications**: Oseltamivir (if within 48 hours), supportive care.  
+- **Differential Diagnoses**: Common cold, streptococcal pharyngitis, mononucleosis.  
+- **Red-Flag Symptoms**: Dyspnea, chest pain (complications like pneumonia).  
+- **ICD-10 Code**: J11.1 (Influenza with other respiratory manifestations, unconfirmed)  
+- **Laboratory Investigations**: Rapid influenza diagnostic test, chest X-ray for suspected pneumonia.  
+
+---
+
+### **92. Mononucleosis**  
+- **Symptoms**: Fever, sore throat, lymphadenopathy.  
+- **Demographics**: Adolescents/young adults.  
+- **Medications**: Supportive care (rest, hydration), corticosteroids for airway swelling.  
+- **Differential Diagnoses**: Streptococcal pharyngitis, toxoplasmosis, CMV infection.  
+- **Red-Flag Symptoms**: Splenomegaly (avoid contact sports), airway compromise.  
+- **ICD-10 Code**: B27.90 (Infectious mononucleosis, unspecified)  
+- **Laboratory Investigations**: Heterophile antibody test (Monospot), EBV serology.  
+
+---
+
+### **93. Conjunctivitis**  
+- **Symptoms**: Redness, discharge, photophobia.  
+- **Demographics**: Viral outbreaks; bacterial in children.  
+- **Medications**: Antibiotic drops (e.g., erythromycin), supportive care.  
+- **Differential Diagnoses**: Allergic conjunctivitis, uveitis, keratitis.  
+- **Red-Flag Symptoms**: Severe pain, vision changes (corneal involvement).  
+- **ICD-10 Code**: H10.9 (Conjunctivitis, unspecified)  
+- **Laboratory Investigations**: Conjunctival swab for culture (if purulent).  
+
+---
+
+### **94. Headaches (Tension-Type)**  
+- **Symptoms**: Bilateral, non-pulsatile pressure-like pain.  
+- **Demographics**: Age 30–50; females > males.  
+- **Medications**: NSAIDs (e.g., ibuprofen), acetaminophen.  
+- **Differential Diagnoses**: Migraine, cluster headache, secondary causes (e.g., subarachnoid hemorrhage).  
+- **Red-Flag Symptoms**: Thunderclap headache, focal neurological deficits (imaging required).  
+- **ICD-10 Code**: G44.209 (Tension-type headache, unspecified)  
+- **Laboratory Investigations**: CT/MRI head (if red flags present).  
+
+---
+
+### **95. Generalized Anxiety Disorder (GAD)**  
+- **Symptoms**: Excessive worry, restlessness, insomnia.  
+- **Demographics**: Age 30–50; females > males.  
+- **Medications**: SSRIs, buspirone, benzodiazepines (short-term).  
+- **Differential Diagnoses**: Hyperthyroidism, panic disorder, PTSD.  
+- **Red-Flag Symptoms**: Panic attacks, suicidal ideation.  
+- **ICD-10 Code**: F41.1 (Generalized anxiety disorder)  
+- **Laboratory Investigations**: TSH, CBC, toxicology screen.  
+
+---
+
+### **96. Chronic Kidney Disease (CKD)**  
+- **Symptoms**: Fatigue, edema, hypertension.  
+- **Demographics**: Diabetes/hypertension comorbidities; elderly.  
+- **Medications**: ACE inhibitors, phosphate binders, erythropoietin-stimulating agents.  
+- **Differential Diagnoses**: Acute kidney injury, glomerulonephritis, polycystic kidney disease.  
+- **Red-Flag Symptoms**: Hematuria, flank pain (suspect malignancy/obstruction).  
+- **ICD-10 Code**: N18.9 (Chronic kidney disease, unspecified)  
+- **Laboratory Investigations**: Serum creatinine, urine microalbumin, renal ultrasound.  
+
+---
+
+### **97. Gout**  
+- **Symptoms**: Acute monoarticular arthritis, erythema, warmth.  
+- **Demographics**: Males > females; postmenopausal women.  
+- **Medications**: Colchicine, NSAIDs, allopurinol (prophylaxis).  
+- **Differential Diagnoses**: Septic arthritis, pseudogout, reactive arthritis.  
+- **Red-Flag Symptoms**: Fever, systemic toxicity (rule out sepsis).  
+- **ICD-10 Code**: M10.9 (Gout, unspecified)  
+- **Laboratory Investigations**: Synovial fluid analysis (urate crystals), serum uric acid.  
+
+---
+
+### **98. Osteoporosis**  
+- **Symptoms**: Back pain, height loss, kyphosis.  
+- **Demographics**: Postmenopausal women, elderly.  
+- **Medications**: Bisphosphonates (e.g., alendronate), calcium/vitamin D supplements.  
+- **Differential Diagnoses**: Osteomalacia, multiple myeloma, metastatic cancer.  
+- **Red-Flag Symptoms**: Acute back pain with neurological deficits (spinal fracture).  
+- **ICD-10 Code**: M81.9 (Osteoporosis, unspecified)  
+- **Laboratory Investigations**: DXA scan, serum calcium, vitamin D levels.  
+
+---
+
+### **99. Hyperlipidemia**  
+- **Symptoms**: Asymptomatic; xanthomas, arcus senilis in severe cases.  
+- **Demographics**: Age >40; metabolic syndrome.  
+- **Medications**: Statins (e.g., atorvastatin), ezetimibe, PCSK9 inhibitors.  
+- **Differential Diagnoses**: Familial hypercholesterolemia, secondary hyperlipidemia (e.g., diabetes, hypothyroidism).  
+- **Red-Flag Symptoms**: Chest pain, dyspnea (suspect coronary artery disease).  
+- **ICD-10 Code**: E78.5 (Hyperlipidemia, unspecified)  
+- **Laboratory Investigations**: Lipid panel, fasting glucose, TSH.  
+
+---
+
+### **100. Type 2 Diabetes Mellitus**  
+- **Symptoms**: Polyuria, polydipsia, fatigue.  
+- **Demographics**: Age >45, obesity, family history; higher incidence in Hispanic, Black, and Indigenous populations.  
+- **Medications**: Metformin (first-line), GLP-1 receptor agonists, insulin.  
+- **Differential Diagnoses**: Type 1 diabetes, secondary diabetes (Cushing’s syndrome, hemochromatosis).  
+- **Red-Flag Symptoms**: Unintentional weight loss, recurrent infections (risk of complications).  
+- **ICD-10 Code**: E11.9 (Type 2 diabetes without complications)  
+- **Laboratory Investigations**: Fasting glucose, HbA1c, urine microalbumin.  
+
+---
+
+### **Final Notes**  
+- **Completeness**: All 100 conditions follow this template, ensuring clinical relevance and actionable guidance.  
+- **Citations**: Where applicable, references to prior segments (e.g., abdominal pain differentials: appendicitis, gastritis, IBD).  
