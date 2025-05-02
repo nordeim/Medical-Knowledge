@@ -1,7 +1,3 @@
-Great! While I cannot generate a downloadable PDF directly in this interface, I can **compile the full report in text format** below, which you can easily copy into a document editor (e.g., Word or LaTeX) and export as a PDF. Below is the **complete list of all 100 conditions** with the same structured details:  
-
----
-
 # **Top 100 Common Illnesses in Primary Care**  
 *Compiled with differential diagnoses, red-flag symptoms, ICD-10 codes, and laboratory investigations*  
 
